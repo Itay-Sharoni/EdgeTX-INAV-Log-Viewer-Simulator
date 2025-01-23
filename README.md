@@ -90,7 +90,10 @@ Once you run the script, a GUI window appears:
 * Reset: Press R. This sets playback to time=0 but keeps the same file loaded.
 * Load Another File: You can load a new CSV anytime. The script resets to the new file.
 
+
 ### CSV Format
+
+See `example.csv`
 
 ```csv
 Date,Time,Ptch(rad),Roll(rad),Yaw(rad),Alt(m),CH1(us),CH2(us),CH3(us),CH4(us),GPS,GSpd(kmh),RxBt(V)
