@@ -90,6 +90,10 @@ Once you run the script, a GUI window appears:
 * Reset: Press R. This sets playback to time=0 but keeps the same file loaded.
 * Load Another File: You can load a new CSV anytime. The script resets to the new file.
 
+  ## Demo Screenshot
+  This is what your EdgeTX log visualizer should look like in action:
+ <img src="example.png" alt="EdgeTX Simulator UI" width="800">
+
 
 ### CSV Format
 
